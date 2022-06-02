@@ -8,4 +8,4 @@ This is a line
 
 This is a new branch
 
-This is not another line
+This is another line
