@@ -9,3 +9,5 @@ This is a line
 This is a new branch
 
 This is another line
+
+This is a change
